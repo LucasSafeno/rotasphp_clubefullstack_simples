@@ -6,6 +6,6 @@ class HomeController
 {
     public function index()
     {
-        dd('index do home');
+        return Controller::view('home');
     }
 }

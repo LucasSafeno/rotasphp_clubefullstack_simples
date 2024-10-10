@@ -6,7 +6,7 @@ class ContactController
 {
     public function index()
     {
-        dd('index do contact');
+        return Controller::view('contact');
     }
 
     public function store()
