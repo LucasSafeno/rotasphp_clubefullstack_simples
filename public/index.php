@@ -21,9 +21,9 @@ try {
         throw new Exception('A Rota não existe');
     }
 
-    $router[$request][$uri];
+    $controller = $router[$request][$uri];
 
-    dd($uri);
+    $controller();
 } catch (Exception  $e) {
     $e->getMessage();
 }

@@ -6,7 +6,7 @@ Criar Sistema de Rotas:
     ✔ POST  -> Contact @done(24-10-10 21:09)
   ✔ Criar funções para carregamento de rotas @done(24-10-10 22:30)
   ✔ No index.php verificar se a rota existe de acordo com a URI e tipo de requisição @done(24-10-10 23:10)
-  ☐ Criar views com plates e criar controller padrão com o método view
+  ✔ Criar views com plates e criar controller padrão com o método view @done(24-10-10 23:25)
+  ✔ Todos os outros controllers irão extender esse controller @done(24-10-10 23:29)
   ☐ Usar arrow function para o carregamento para não precisar dar echo na rota no index.php
-    ☐ Todos os outros controllers irão extender esse controller
 
