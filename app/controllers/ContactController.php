@@ -6,11 +6,11 @@ class ContactController
 {
     public function index()
     {
-        dump('index');
+        dd('index do contact');
     }
 
     public function store()
     {
-        dump('store');
+        dd('store do contact');
     }
 }

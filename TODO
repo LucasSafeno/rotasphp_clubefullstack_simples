@@ -4,7 +4,7 @@ Criar Sistema de Rotas:
   ✔ Criar Arquivo de rotas com os tipos de requisições GET e POST  e dentro das rotas básicas @done(24-10-10 21:09)
     ✔ GET -> Home e Contact @done(24-10-10 21:09)
     ✔ POST  -> Contact @done(24-10-10 21:09)
-  ☐ Criar funções para carregamento de rotas
+  ✔ Criar funções para carregamento de rotas @done(24-10-10 22:30)
   ☐ No index.php verificar se a rota existe de acordo com a URI e tipo de requisição
   ☐ Usar arrow function para o carregamento para não precisar dar echo na rota no index.php
   ☐ Criar views com plates e criar controller padrão com o método view
