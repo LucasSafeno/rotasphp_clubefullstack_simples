@@ -1,12 +1,12 @@
 
 Criar Sistema de Rotas:
-  ☐ Criar estrutura de pastas e arquivos com composer e autoload
-  ☐ Criar Arquivo de rotas com os tipos de requisições GET e POST  e dentro das rotas báisicas
-    ☐ GET -> Home e Contact
-    ☐ POST  -> Contact
+  ✔ Criar estrutura de pastas e arquivos com composer e autoload @done(24-10-10 20:50)
+  ✔ Criar Arquivo de rotas com os tipos de requisições GET e POST  e dentro das rotas básicas @done(24-10-10 21:09)
+    ✔ GET -> Home e Contact @done(24-10-10 21:09)
+    ✔ POST  -> Contact @done(24-10-10 21:09)
   ☐ Criar funções para carregamento de rotas
   ☐ No index.php verificar se a rota existe de acordo com a URI e tipo de requisição
   ☐ Usar arrow function para o carregamento para não precisar dar echo na rota no index.php
   ☐ Criar views com plates e criar controller padrão com o método view
     ☐ Todos os outros controllers irão extender esse controller
-    
+
